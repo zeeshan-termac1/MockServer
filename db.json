@@ -1,9 +1,33 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "register": 
+  {
+    "status":true,
+    "message":"Success/Failure reason",
+    "userId": 1
+  }
+  ,
+  "verifyCode": 
+  {
+    "status":true,
+    "message":"Success/Failure reason",
+    "serverToken/UserId": "sometext"
+  }
+  ,
+  "resendCode": {
+    "status":true,
+    "message":"Success/Failure reason",
+    "userId": 1
+  },
+  "saveNotificationToken":{
+    {
+      "status":true,
+      "message":"Success/Failure reason"
+    }
+  },
+  "saveLocation":{
+    {
+      "status":true,
+      "message":"Success/Failure reason"
+    }
+  }
 }
