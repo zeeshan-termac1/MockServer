@@ -19,15 +19,11 @@
     "userId": 1
   },
   "saveNotificationToken":{
-    {
-      "status":true,
-      "message":"Success/Failure reason"
-    }
+    "status":true,
+    "message":"Success/Failure reason"
   },
   "saveLocation":{
-    {
-      "status":true,
-      "message":"Success/Failure reason"
-    }
+    "status":true,
+    "message":"Success/Failure reason"
   }
 }
