@@ -7,7 +7,7 @@
   "verifyCode": {
     "status": true,
     "message": "Success/Failure reason",
-    "serverToken/UserId": "sometext"
+    "serverToken": "sometext"
   },
   "resendCode": {
     "status": true,
